@@ -1,8 +1,6 @@
-### Boilerplate python project - data analysis/scraping
+### Convert CSV to Geojson
 
-This is a simple boilerplate python project for data analysis or scraping.
-
-It includes logging, pipenv and pandas.
+Utility for converting CSV files into geojson.
 
 #### Install
 
@@ -18,3 +16,13 @@ It includes logging, pipenv and pandas.
 dependencies. Run:
 
     `pipenv install`
+
+#### Run
+
+From the terminal, make sure you're in the project directory. Run the following:
+
+```python run.py```
+
+Or:
+
+```pipenv run python run.py```
